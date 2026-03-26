@@ -9146,3 +9146,4 @@ https://github.com/nikki-build/nikki.unoR4
 https://github.com/nikki-build/nikki.esp8266
 https://github.com/shrawankhambekar/ESP32_CPWIFI
 https://github.com/piglet0/haier2supla
+https://github.com/oviedofg71-cyber/Libreria-FX1N-PLC
